@@ -10,6 +10,6 @@ DOS2_Mod_sync_client is the tool for clients (i.e not the host).
 
 2. On first run you will be prompted to select mod folder paths.
 
-3.Two csv files will be generated containing mod names and sizes of the Steam and documents mods folder
+3. Two csv files will be generated containing mod names and sizes of the Steam and documents mods folder
 
 4. Send generated files to your game host.
